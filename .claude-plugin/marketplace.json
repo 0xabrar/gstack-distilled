@@ -1,0 +1,17 @@
+{
+  "name": "gstack-distilled",
+  "owner": {
+    "name": "0xabrar",
+    "url": "https://github.com/0xabrar"
+  },
+  "plugins": [
+    {
+      "name": "gstack-distilled",
+      "source": "./",
+      "description": "Strategy and decision-making frameworks distilled from Garry Tan's gstack — seven focused skills for what to build, how to scope, when to ship, how to review, and more.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": ["claude-code", "skills", "decision-making", "yc", "founder", "gstack"]
+    }
+  ]
+}
